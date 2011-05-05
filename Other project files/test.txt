@@ -1,0 +1,18 @@
+// test.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <windows.h>
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	 LoadLibrary("user32.dll");
+	 RegisterHotKey(NULL,120,MOD_WIN,'P');
+     MSG msg;
+	 int i=0;
+	while(GetMessage(&msg,NULL,WM_HOTKEY,WM_HOTKEY))
+	{
+	printf("something %d\n", i++);
+	} 
+	return 0;
+}

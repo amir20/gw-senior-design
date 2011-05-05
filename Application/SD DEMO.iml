@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4" relativePaths="true" type="JAVA_MODULE">
+  <component name="ModuleRootManager" />
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/classes" />
+    <exclude-exploded />
+    <content url="file://$MODULE_DIR$/classes">
+      <sourceFolder url="file://$MODULE_DIR$/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax/help" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax/help/plaf/basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax/help/plaf/basic/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax/help/plaf/gtk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/classes/javax/help/plaf/gtk/images" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/src">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntryProperties />
+    <javadoc-paths>
+      <root url="file://$MODULE_DIR$/src/doc" />
+    </javadoc-paths>
+  </component>
+</module>
+

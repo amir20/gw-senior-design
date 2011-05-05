@@ -1,0 +1,9 @@
+Java parameters=RunApplication
+Main class=
+Application parameters=
+From jar=false
+Working directory=classes
+Environment variables=
+Type=JDK without console
+Icon=C:\Documents and Settings\Amir\Desktop\Speech\mic.ico
+Output=Speech Recognition

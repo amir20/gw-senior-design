@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="toplevelfolder" url="images/toplevel.gif" />
+	<mapID target="home" url="idehelp/home.html" />
+	<mapID target="intro" url="idehelp/intro.html" />
+	<mapID target="sysreq" url="idehelp/sysreq.html" />
+	<mapID target="install" url="idehelp/install.html" />
+	<mapID target="library" url="idehelp/library.html" />
+	<mapID target="recording" url="idehelp/recording.html" />
+	<mapID target="launching" url="idehelp/launching.html" />
+	<mapID target="otherrecording" url="idehelp/otherphrases.html" />
+	<mapID target="options" url="idehelp/options.html" />	
+	<mapID target="trouble" url="idehelp/trouble.html" />	
+	<mapID target="contact" url="idehelp/contact.html" />
+</map>

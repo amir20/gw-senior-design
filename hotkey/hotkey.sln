@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hotkey", "hotkey.vcproj", "{FBD31305-2D15-498F-B487-0E3AE944CC5E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FBD31305-2D15-498F-B487-0E3AE944CC5E}.Debug.ActiveCfg = Debug|Win32
+		{FBD31305-2D15-498F-B487-0E3AE944CC5E}.Debug.Build.0 = Debug|Win32
+		{FBD31305-2D15-498F-B487-0E3AE944CC5E}.Release.ActiveCfg = Release|Win32
+		{FBD31305-2D15-498F-B487-0E3AE944CC5E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

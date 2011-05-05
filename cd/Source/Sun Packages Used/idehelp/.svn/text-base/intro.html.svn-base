@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Introduction</title>
+
+</head>
+
+<body>
+<table width="80%"  border="0" cellspacing="5" cellpadding="5">
+  <tr>
+    <td valign="top"><p></p><font face="Arial, Helvetica, sans-serif" size="+3">Introduction</font><br>
+    </p>
+	<font face="Arial, Helvetica, sans-serif">  
+      <p> Voice Launch is a speech recognition program that will recognize and launch a selection of at least fifteen applications. A number of phrases will need to be recorded and associate each phrase with an application. The expected accuracy is equal or greater than 80%. To launch an application, a phrase is recorded and passed to the recognition thread. The recognition thread will find the most similar item from the library by comparing the recorded phrase to all other templates in the library. A template holds features of a previously recorded phrase and is stored in the library. Confirmation dialog is shown prior to launching any application. If the found application is not what was desired, then the best next application is displayed by clicking “No.” If after three attempts, the correct application was not found then no application is launched.  The process can be cancelled anytime by clicking “Cancel” in the confirmation dialog.
+</p>
+      <p>This user manual will initially guide users to install the program.  After installation, the application will be explained in detail for use. To use this application, a microphone is required and speakers are strongly recommended for playback. Please refer to the <a href="sysreq.html">System Requirements</a> section for more details. </p>
+	</font> 
+	</td>
+</tr>
+</table>
+<p align="left">&nbsp; </p>
+</body>
+</html>

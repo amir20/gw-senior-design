@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="80%"  border="0" cellspacing="5" cellpadding="5">
+  <tr>
+    <td valign="top"><p></p>
+        <font face="Arial, Helvetica, sans-serif" size="+3">Preferences</font><br>
+        <p></p>
+        <font face="Arial, Helvetica, sans-serif">
+       Figure 14 and Figure 15 show screenshots of Settings window. The system tray setting allows the user to set the default action for left clicking on the system tray icon. The user has also the option of changing the path to the library files. This is not recommended for the average user because it may result is loss of data. 
+      <br>
+<br>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><font face="Arial, Helvetica, sans-serif"><img src="img/sysoptions.jpg" width="700" height="400" ></font></td>
+          </tr>
+          <tr>
+            <td><div align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><strong>Figure 14 - System Tray Options</strong></font></div></td>
+          </tr>
+        </table>
+<br>
+<br>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><font face="Arial, Helvetica, sans-serif"><img src="img/liboption.jpg" width="700" height="400" ></font></td>
+          </tr>
+          <tr>
+            <td><div align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><strong>Figure 15 - Library Options</strong></font></div></td>
+          </tr>
+        </table>
+
+	  </font> </td>
+  </tr>
+</table>
+</body>
+</html>

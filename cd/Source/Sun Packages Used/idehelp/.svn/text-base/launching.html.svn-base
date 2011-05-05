@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="80%"  border="0" cellspacing="5" cellpadding="5">
+  <tr>
+    <td valign="top"><p></p>
+        <font face="Arial, Helvetica, sans-serif" size="+3">Launching Applications </font><br>
+        <p></p>
+        <font face="Arial, Helvetica, sans-serif">
+       There are three methods that can start the recognition phase. The first method requires the use of keyboard. To start the recognition phase press the Windows key and the letter A. This will prompt the user for a two-second phrase. After the two-second phrase has been recorded, a confirmation dialog is displayed.  Figure 9 displays an example of a confirmation dialog. This dialog displays the name of the application in addition to the icon of the application which was best recognized compared to the recorded phrase. Say or click ‘Yes’ to launch this application or ‘No’ to find the next best matched application. If ‘Yes’ is clicked, the application is launched immediately even before the progress bar is finished. Similarly, if ‘No’ is clicked, then the next best-match application is found immediately. Cancel can be clicked at anytime to stop the recognition phase without launching any applications.  <br>
+       <br>
+
+        <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><font face="Arial, Helvetica, sans-serif"><img src="img/confirm.jpg" width="550" height="187" ></font></td>
+          </tr>
+          <tr>
+            <td><div align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><strong>Figure 9 - Confirmation Dialog </strong></font></div></td>
+          </tr>
+        </table>
+        <br>
+      The second method involves clicking the system tray icon. As shown in Figure 10, right click on the Voice Launch system tray icon and click “Launch Application…” The same action could be performed by left clicking on the icon if the default action is to “Launch Application…” Changing the user preferences is explained in a later section.  <br><br>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><font face="Arial, Helvetica, sans-serif"><img src="img/systraywoptions.jpg" width="230" height="104" ></font></td>
+          </tr>
+          <tr>
+            <td><div align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><strong>Figure 10 - System Tray</strong></font></div></td>
+          </tr>
+        </table>
+<br>
+The third and final way to launch applications does not involve the mouse or the keyboard. If “Continuous Recording” is enabled then the recognition phase can be started by saying the word “Computer.” The accuracy level for this feature is not very high. For best performance, it is best advised if there is no background noise.  Also, if the feature is enabled but there is a lot of conversation occurring in the background, then at times the word “computer” might be recognized even though the user did not say that phrase. For best results, each user should record their own computer phase by going to Library > Record Computer Phrase. If the Continuous Recording feature is enabled then the live listener displays what the user has said graphically. Figure 11 shows a snapshot of a live listener. When the word “computer” is recognized, then the live listener’s turns green temporarily.
+      <br>
+      <br>
+	  </font><table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><font face="Arial, Helvetica, sans-serif"><img src="img/contrecording.jpg" width="541" height="177" ></font></td>
+          </tr>
+          <tr>
+            <td><div align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><strong>Figure 11 - Live Monitor </strong></font></div></td>
+          </tr>
+        </table>
+	  <br>
+	 <font face="Arial, Helvetica, sans-serif"> Next section shows how to <a href="otherphrases.html">record yes, no and computer phrases</a>. </font>
+ </td>
+  </tr>
+</table>
+</body>
+</html>
